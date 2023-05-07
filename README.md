@@ -4,7 +4,7 @@
 
 Projem ile ilgili motivasyonum öğrencilik hayatım ve tabii ki kariyer hazırlığım için bir katkıda bulunacak olması.Bu proje benim için bir projeden daha fazla önem taşıyor çünkü bu projeler içinde daha fazla bulundukça mesleği öğrenmeye bir adım daha yaklaştığımı hissediyorum.
 
-Projemde amacım çalışabilen,çok fonksiyonlu,anlaşılır ve basit kullanımı son olarak da minimum gereksinimlerle maksimum performansa sahip bir otomasyon olmasını sağlamak.
+Projemde amacım çalışabilen,çok fonksiyonlu,anlaşılır ve basit kullanımı olan son olarak da minimum gereksinimlerle maksimum performansa sahip bir otomasyon olmasını sağlamak.
 
 
 Projemde kullanacağım muhtemel veri tabanları şöyle olacaktır:
