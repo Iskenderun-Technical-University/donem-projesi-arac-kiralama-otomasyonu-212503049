@@ -10,8 +10,11 @@ Projemde amacım çalışabilen,çok fonksiyonlu,anlaşılır ve basit kullanım
 Projemde kullanacağım muhtemel veri tabanları şöyle olacaktır:
 
 -Müsteri ekleme,silme ve listeleme (aynı veri tabanını kullanacağım sadece gerekli verileri çekeceğim )
+
 -Araç kayıt,silme ve müsait araçları listeleme(aynı veri tabanını kullanacağım sadece gerekli verileri çekeceğim)
+
 -Giriş paneli(birden fazla hesap giriş bilgisi , hesapların bilgileri isteğe bağlı degişebilmesi ve başka bir kullanıcı eklenmesi seçenekleri bulunacak)
+
 -Araç kiralama sözleşmeleri ve sözleşmelerin detaylarını ve bitiş zamanını listeleme(aynı veri tabanını kullanacağım sadece gerekli verileri çekeceğim).
 
 
