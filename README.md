@@ -9,6 +9,8 @@ Projemde amacım çalışabilen,çok fonksiyonlu,anlaşılır ve basit kullanım
 
 Projemde kullanacağım muhtemel veri tabanları şöyle olacaktır:
 
+-Araç kiralama sözleşmeleri oluşturma , süresi geçmiş sözleşmeleri silme  ve sözleşmelerin detaylarını ve bitiş zamanını listeleme(aynı veri tabanını kullanacağım sadece gerekli verileri çekeceğim).
+
 -Araç kayıt ve silme(aynı veri tabanını kullanacağım sadece gerekli verileri çekeceğim)
 
 -Müsait araçları ve kiralanan araçları listeleme(aynı veri tabanını kullanacağım sadece gerekli verileri çekeceğim ve sözleşmeler için kullanacağım veri tabanı ile senkronize çalışacaklar)
