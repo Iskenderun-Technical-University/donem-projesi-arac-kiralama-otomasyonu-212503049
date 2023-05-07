@@ -9,7 +9,7 @@ Projemde amacım çalışabilen,çok fonksiyonlu,anlaşılır ve basit kullanım
 
 Projemde kullanacağım muhtemel veri tabanları şöyle olacaktır:
 
--Müsteri ekleme,silme ve listeleme (aynı veri tabanını kullanacağım sadece gerekli verileri çekeceğim )
+-Müşteri ekleme,silme ve listeleme (aynı veri tabanını kullanacağım sadece gerekli verileri çekeceğim )
 
 -Araç kayıt,silme ve müsait araçları listeleme(aynı veri tabanını kullanacağım sadece gerekli verileri çekeceğim)
 
