@@ -1,0 +1,11 @@
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\bin\Debug\İkinciDönemProje3.exe.config
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\bin\Debug\İkinciDönemProje3.exe
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\bin\Debug\İkinciDönemProje3.pdb
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\obj\Debug\İkinciDönemProje3.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\obj\Debug\İkinciDönemProje3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\obj\Debug\İkinciDönemProje3.Form1.resources
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\obj\Debug\İkinciDönemProje3.Properties.Resources.resources
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\obj\Debug\İkinciDönemProje3.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\obj\Debug\İkinciDönemProje3.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\obj\Debug\İkinciDönemProje3.exe
+C:\Users\Emir\source\repos\İkinciDönemProje3\İkinciDönemProje3\obj\Debug\İkinciDönemProje3.pdb
